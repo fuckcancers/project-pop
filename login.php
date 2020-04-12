@@ -1,3 +1,3 @@
 <?php
-echo "Logins";
+echo "Logon";
 ?>
